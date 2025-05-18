@@ -1,0 +1,21 @@
+{
+  "name": "xcode-dark-theme",
+  "displayName": "Xcode Dark Theme",
+  "description": "Kikibux Xcode Dark Theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Xcode Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Xcode Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
